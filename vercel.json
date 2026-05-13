@@ -1,0 +1,15 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "/proacademymaster.com/mspychoosenumber/$1"
+    }
+  ],
+  "redirects": [
+    {
+      "source": "/",
+      "destination": "/proacademymaster.com/mspychoosenumber/index.html",
+      "permanent": false
+    }
+  ]
+}
