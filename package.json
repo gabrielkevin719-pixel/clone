@@ -1,0 +1,11 @@
+{
+  "name": "clone",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "serve proacademymaster.com/mspychoosenumber -p 3000",
+    "start": "serve proacademymaster.com/mspychoosenumber -p 3000"
+  },
+  "dependencies": {
+    "serve": "^14.2.1"
+  }
+}
